@@ -221,7 +221,7 @@ btnCon.addEventListener("click", function () {
         document.getElementById("inicio").style.background = "linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('inicio.jpg')";
         document.getElementById("inicio").style.backgroundSize = "cover";
         document.getElementById("inicio").style.backgroundPosition = "center";
-        document.getElementById("form").style.background = "linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('form.jpg')";
+        document.getElementById("form").style.background = "linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('4.jpg')";
         document.getElementById("form").style.backgroundSize = "cover";
         document.getElementById("form").style.backgroundPosition = "center";
         document.getElementById("logo").src = "logo2.png"
@@ -257,4 +257,5 @@ btnCon.addEventListener("click", function () {
     }
 
     contra = !contra;
+
 })
